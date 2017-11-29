@@ -11,8 +11,9 @@ output:
 #include <stdio.h>
 
 int main(void){
-  int rc
-  scanf("%d",&rc
+  int rc;
+  printf("Enter a number:");
+  scanf("%d",&rc);
 
   for(int i=0; i < rc; i++){
     for(int j=0; j < rc; j++){
