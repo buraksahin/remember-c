@@ -24,3 +24,4 @@ int main(){
 		number--;
 	}while(number>0);
 }
+
